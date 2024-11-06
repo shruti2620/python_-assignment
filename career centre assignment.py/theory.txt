@@ -1,0 +1,27 @@
+Q.1) what are the types of applications ? 
+ans = applications are broadly classified into several categories based on their purpose,platformand
+       architecture.
+       here are main types:
+        1) web applications - these applications access through web browser over a network 
+               eg- gmail,google docs,facebook .
+        2) mobile applications - this aplications develops for mobile device such as smartphone and tablets.
+                eg- whatsapp,instagram.
+        3) desktop applications - software installed and run locally on computer operating system.
+               eg- microsoft word, photoshop.
+        4) software applicatons- software that helps computer hardware and provides service for applications.
+               eg- operating system like windows .
+        5) data base applications - software designed to store , manage and retrieve data in database.
+            eg- microsoft SQL.
+
+Q.2) what are programming ?
+ans= programming is a process in which we can designing, writing,testing and maintaining code to create 
+     software applications.
+     it involve using programming language such as java, python to give instruction to computer to perform 
+     specific task . 
+
+Q.3) what is python ?
+ans = python is highr level , most popular object oriented programing language . 
+      using of python we can develop web application, we can use in AI,ML,IOT,robotics,DA. 
+      it is easy to learn and use .
+      it is interpreted language . 
+
